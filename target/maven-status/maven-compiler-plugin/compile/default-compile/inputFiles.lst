@@ -1,0 +1,17 @@
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\repository\DespesaRepository.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\repository\ReceitaRepository.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\repository\CategoriaRepository.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\entity\Usuario.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\repository\UsuarioRepository.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\entity\Despesa.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\config\CorsConfig.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\controllers\ReceitaController.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\services\SaldoService.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\controllers\UsuarioController.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\entity\Receita.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\controllers\DespesaController.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\entity\Categoria.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\controllers\CategoriaController.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\controllers\SaldoController.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\GerenciamentoFinancasPessoaisApplication.java
+D:\Users\walterjuca\IdeaProjects\GerenciamentoFinancasPessoais\src\main\java\com\example\gerenciamentofinancaspessoais\controllers\RelatorioController.java

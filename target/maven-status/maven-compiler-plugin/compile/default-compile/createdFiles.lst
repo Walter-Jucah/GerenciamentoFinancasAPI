@@ -1,0 +1,17 @@
+com\example\gerenciamentofinancaspessoais\controllers\UsuarioController.class
+com\example\gerenciamentofinancaspessoais\config\CorsConfig.class
+com\example\gerenciamentofinancaspessoais\entity\Despesa.class
+com\example\gerenciamentofinancaspessoais\controllers\SaldoController.class
+com\example\gerenciamentofinancaspessoais\services\SaldoService.class
+com\example\gerenciamentofinancaspessoais\repository\ReceitaRepository.class
+com\example\gerenciamentofinancaspessoais\repository\DespesaRepository.class
+com\example\gerenciamentofinancaspessoais\entity\Receita.class
+com\example\gerenciamentofinancaspessoais\controllers\RelatorioController.class
+com\example\gerenciamentofinancaspessoais\entity\Categoria.class
+com\example\gerenciamentofinancaspessoais\repository\CategoriaRepository.class
+com\example\gerenciamentofinancaspessoais\GerenciamentoFinancasPessoaisApplication.class
+com\example\gerenciamentofinancaspessoais\controllers\DespesaController.class
+com\example\gerenciamentofinancaspessoais\controllers\CategoriaController.class
+com\example\gerenciamentofinancaspessoais\repository\UsuarioRepository.class
+com\example\gerenciamentofinancaspessoais\controllers\ReceitaController.class
+com\example\gerenciamentofinancaspessoais\entity\Usuario.class
